@@ -6,7 +6,7 @@
 3. 課程二：葡萄分級標準制定與所遇難點
 4. 課程三：利用 Transformer 檢測葡萄病害
 
-## 程式碼教學
-[[進入程式碼教學]](colab/Grape_Diseases.ipynb)
+## 教學內容
+[[程式碼教學]](colab/Grape_Diseases.ipynb)
 
 [[ 學習簡報 ]](教學簡報/葡萄病徵檢測.pptx)
